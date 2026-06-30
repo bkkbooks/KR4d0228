@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0228/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雪山集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:59:55.300101'
+  source:
+    repository: kanripo
+    path: KR4d0228/KR4d0228_000.txt
+hash: sha256:3606c959baed2a29e8cbe0e03055dc63f8198b80162bf2c8078ddda2fd3c8cea

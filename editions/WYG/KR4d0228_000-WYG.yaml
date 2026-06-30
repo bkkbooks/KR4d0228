@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0228/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雪山集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:59:55.300101'
+  source:
+    repository: kanripo
+    path: KR4d0228/KR4d0228_000.txt
+hash: sha256:8eb3725c6666183e6bb2806412c8f7bea83f08f793b861f787fad42e4d3971fc
